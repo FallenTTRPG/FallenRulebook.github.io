@@ -141,7 +141,7 @@ Conversion notes:
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/TheContinent.png "image_tooltip")
 
 
 Map Download: 
@@ -234,7 +234,7 @@ This world is called Terra, which orbits a dying star.
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/TheBrightlord.png "image_tooltip")
 
 
 This fallen, raptured world is roamed only by monsters and demons. Orbiting a darkened and fading star, it drifted endlessly through the never ending void and darkness of space. That is, until an entity known as “the Bright Lord” fell to Terra, bringing with him other entities known as brights or gods as some cultures would call them later. After observing the mindless monsters of the world, the Bright Lord took pity upon the dead planet. He blessed those monsters that bowed to him with the gift of consciousness and they assumed the humanoid form of the Bright Lord. This event would be known as “The Awakening”.
@@ -316,7 +316,7 @@ Each Bright or god in the Pantheon of Brightinism has an associated Tenet of Lif
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/TheBrightlord.png "image_tooltip")
 ** \
 Aspect: **Light, Intelligence, Dominion \
 **Tenet:** _“Thou are created in the image of greatness, and shall seek strength, knowledge, and greatness to be closer to I, but shall recognize thine greatness is from within thine own labors.” \
@@ -340,7 +340,7 @@ The Bright Lord is the chief deity of Brightinism. As the creator of Fellkind an
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/TheGreatBetrayer.png "image_tooltip")
 ** \
 Domain:** Vengeance, Fury, Betrayal \
 **Tenet:** _“_Thou shall take up arms and seek righteous vengeance upon those that have wronged you.”
