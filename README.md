@@ -3,22 +3,18 @@
 
 
 Map Download: 
-
-
-
 1. Rune Slots
 2. Fix Spell caster availability
 3. Subraces
 
 
-## Table of Contents
-
-
-[TOC]
+# Table of Contents
 
 
 
-## Preface
+
+
+# Preface
 
 Howdy everyone, this is your friendly neighborhood Javk Wick here. Fallen is my attempt at implementing some key mechanics and resources that are present in other popular TTRPGS, but aren’t quite available for Cogent Roleplay yet. This is not a flaw of Cogent Roleplay, as it is designed to be as adaptable as possible so that people like us can make what we want with it. :) \
  \
@@ -66,7 +62,7 @@ I have done my best to maintain the philosophy of K.I.S.S (Keep It Simple Stupid
 
 
 
-**Special Thanks \
+** Special Thanks \
 **I'd like to thank Shad, Dave, Jazza, and anyone else behind the scenes for their work on Cogent Roleplay. I believe that it is the best TTRP system I've ever used. It allowed me to finally bring my own world "Fallen" to life and share it with my friends and audience. I'm super thankful and I'm excited to see where it goes.
 
 **Links**
@@ -78,10 +74,10 @@ Here is a link to my Youtube Channel where I upload our home game:
 [Javk Wick - YouTube](https://www.youtube.com/channel/UCIozVe_NJI66urdnVfMkCJg/videos)
 
 
-## World Lore
+# World Lore
 
 
-### **The Awakening**
+## **The Awakening**
 
 On dead world, at the end of time, life begins once again…
 
@@ -94,77 +90,73 @@ This fallen, raptured world is roamed only by monsters and demons. Orbiting a da
 
 The Brights each imparted an aspect of themselves unto Fellkind to help them survive and thrive in the harsh new world they would find themselves in.
 
-**The Tenets of Life**
+### **The Tenets of Life**
 
 
 
-* **_The Beautiful One: “Thou has been given the passion of flesh to spread across the land.”_**
-* **_The Ravenous One: “Thou shall indulge and consume of the world of which I have granted.”_**
-* **_The Bargainer: “Thou shall seek prosperity in the wealth and secrets of the land.”_**
-* **_The Bound One: “Thou shall go without care for the opinions of the world.”_**
-* **_The Faithful One: “Thou shall take up arms and seek righteous vengeance upon those that have betrayed and wronged you.”_**
-* **_The Twisting One: “Thou shall recognize the success of one's neighbor, and labor to obtain greatness oneself.”_**
-* **_The Bright Lord: “Thou are created in the image of greatness, and shall seek strength, knowledge, and greatness to be closer to I, but shall recognize thine greatness is from within thine own labors.”_**
+* _The Beautiful One: “Thou has been given the passion of flesh to spread across the land.”_
+* _The Ravenous One: “Thou shall indulge and consume of the world of which I have granted.”_
+* _The Bargainer: “Thou shall seek prosperity in the wealth and secrets of the land.”_
+* _The Bound One: “Thou shall go without care for the opinions of the world.”_
+* _The Faithful One: “Thou shall take up arms and seek righteous vengeance upon those that have betrayed and wronged you.”_
+* _The Twisting One: “Thou shall recognize the success of one's neighbor, and labor to obtain greatness oneself.”_
+* _The Bright Lord: “Thou are created in the image of greatness, and shall seek strength, knowledge, and greatness to be closer to I, but shall recognize thine greatness is from within thine own labors.”_
 
 These beings were the first of Fellkind or Fellkin, as they were of a fallen world. Via the Awakening, various races came into being such as Dhampires, Lycans, Sirens, Wraithkin, etc... While they assumed a humanoid form, Fellkind was still able to access the genetic traits of their monstrous origins. Fellkind learned to harness ichor, the potential energy held in the blood of monsters and Fellkind alike. The gifted and disciplined were able to hone these abilities into what is now known as Fellcraft.
 
 
-### **The First of Brightkind**
+## **The First of Brightkind**
 
 The Bright Lord blessed upon the first and most devoted daughters of Fellkind his children. These were the first demi-brights or Brightkind. The Bright Lord declared Terra and dominion over Fellkind their right, though they would have to seize it for themselves. Brightkind shared none of the monstrous traits of Fellkind. Brightkin were capable of performing Miracles like the Bright Lord himself. While Fellcraft must obey the natural laws of the world,** **Miracles seem to take them as mere suggestions, leaving scholars puzzled to this day. Brightkin, like the Bright Lord, were immortal and though they could be harmed, were nearly impossible to permanently kill.
 
 
-### **Brightinism**
+## **Brightinism**
 
 Upon Fellkind and Brightkind the Bright Lord built his teachings, known as Brightinism. Brightinism warned of the Dead God, an entity responsible for the abandonment and rapture of the last world. Worship of the Dead God was forbidden under the weight of death, as it was  foretold to bring the entity back to this world and rapture would follow once again. He bestowed upon his Brightinist followers visions guiding them.
 
 
-### **The Faithful One**
+## **The Faithful One**
 
 The Bright Lord placed his most loyal companions, the bright Amon, the Faithful One,  the bearer of the Mark of the Undying, in charge of protecting the people of Terra from the monsters and demons that still roamed the planet. Amon grew to love Fellkind as he taught them to defend themselves and lived amongst them. When the demons that remained on the planet began preying upon Fellkind, his war against them began. Wielding the Spear of Destiny he rampaged and hunted across the planet, ending the existence of demons on Terra. Unsatisfied with the chance of their return, he traveled to their world.  He ripped and tore across their world. It is said Amon raged in their world for an eternity, all to protect those he loved. The Demons named him "The Demon of the West'', as in time they considered him as one of them. Amon returned, changed. And the demons never returned, for the only thing they feared was him.
 
 
-### **The Great Betrayal**
+## **The Great Betrayal**
 
 It is unclear why Amon, the Faithful One, attempted to overthrow the Bright Lord. Some say that he was corrupted by the Dead God. Brightinist priests will often say that it is simply a byproduct of the Tenets and that it is the Bright Lord's will to challenge him. It is said that their battle was so intense that it split the moon in two. The larger moon became known as "the Mother '' and the smaller named "the Child ''. 
 
  In the end, Amon was defeated and imprisoned. The Bright Lord decreed from now until the end of time, Amon would only be referred to as “The Great Betrayer”. This event would become known as "The Great Betrayal''. The Bright Lord then bestowed the Tenets of Fear.
 
-**The Tenets of Fear**
+## **The Tenets of Fear**
 
 
 
-* **_Fear the Dead God_**
-* **_Fear the Mark/Brand of the Undying_**
-* **_Fear the all tyrants, freedom is to be absolute_**
+* _Fear the Dead God_
+* _Fear the Mark/Brand of the Undying_
+* _Fear the all tyrants, freedom is to be absolute_
 
 
-### **The Bright Lord's Ascension**
+## **The Bright Lord's Ascension**
 
 Devoid of light, the people of Terra suffered immensely to the horrors that live in the darkness of night. And so, after the Great Betrayal, the Bright Lord ascended to the heavens. And there, the Bright Lord tends to the heart of the dying star, giving it new life. There he remains, watchful over his creations…
 
 
-### **The Dark Age**
+## **The Dark Age**
 
 Thus began the Dark Age. For 10,000 years Fellkin and Brightkin struggled against the monsters of the planet, slowly craving out civilization with nothing but their own blood and steel. These were dark times, and kingdoms fell and rose to monsters, diseases, and each other. In the end, The Dawn Empire stood atop, their gleaming capital Crossroad sitting in the middle of the continent. From there they exerted their control and forced the kingdoms of Terra to bow to them or face their furious wrath.
 
 
-### **The Dawn Age**
+## **The Dawn Age**
 
-Thus began the Age of Dawn, a time of relative peace and prosperity. Ruled by Emperor Commudus Lightbringer.
-
-
-## 
+Thus began the Age of Dawn, a time of relative peace and prosperity. Ruled by Emperor Commudus Lightbringer. 
 
 
-## The Bright Pantheon 
+# **The Bright Pantheon**
 
 Brights are a group of beings that are most commonly associated with the Bright Lord himself. The term Bright, should not be seen as an indication of the luminosity of the beings, but rather their association with the Bright Lord. In some cultures around Terra, Brights are also referred to as gods.
 
 Each Bright or god in the Pantheon of Brightinism has an associated Tenet of Life.
 
-**The Bright Lord \
-**
+**The Bright Lord**
 
 ![alt_text](images/Brights/TheBrightlord.png "image_tooltip")
 ** \
