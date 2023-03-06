@@ -229,12 +229,7 @@ On dead world, at the end of time, life begins once again…
 
 This world is called Terra, which orbits a dying star. 
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/TheBrightlord.png "image_tooltip")
+![alt_text](images/Brights/TheBrightlord.png "image_tooltip")
 
 
 This fallen, raptured world is roamed only by monsters and demons. Orbiting a darkened and fading star, it drifted endlessly through the never ending void and darkness of space. That is, until an entity known as “the Bright Lord” fell to Terra, bringing with him other entities known as brights or gods as some cultures would call them later. After observing the mindless monsters of the world, the Bright Lord took pity upon the dead planet. He blessed those monsters that bowed to him with the gift of consciousness and they assumed the humanoid form of the Bright Lord. This event would be known as “The Awakening”.
@@ -313,10 +308,7 @@ Each Bright or god in the Pantheon of Brightinism has an associated Tenet of Lif
 **The Bright Lord \
 **
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/TheBrightlord.png "image_tooltip")
+![alt_text](images/Brights/TheBrightlord.png "image_tooltip")
 ** \
 Aspect: **Light, Intelligence, Dominion \
 **Tenet:** _“Thou are created in the image of greatness, and shall seek strength, knowledge, and greatness to be closer to I, but shall recognize thine greatness is from within thine own labors.” \
@@ -337,10 +329,7 @@ The Bright Lord is the chief deity of Brightinism. As the creator of Fellkind an
 **The Great Betrayer \
 **
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/TheGreatBetrayer.png "image_tooltip")
+![alt_text](images/Brights/TheGreatBetrayer.png "image_tooltip")
 ** \
 Domain:** Vengeance, Fury, Betrayal \
 **Tenet:** _“_Thou shall take up arms and seek righteous vengeance upon those that have wronged you.”
@@ -371,16 +360,10 @@ Amon's love of weaponry and equipment is obvious, as many of the weapons we use 
 **The Twisting One \
 **
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
+![alt_text](images/Brights/TheTwistingOne.png "image_tooltip")
 
-![alt_text](images/image5.png "image_tooltip")
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](images/Brights/TheTwistingOne1.png "image_tooltip")
 ** \
 Aspect:** Want, Growth, Change \
 **Tenet:** _“_Thou shall recognize the success of one's neighbor, and labor to obtain success thineself._” \
@@ -414,10 +397,7 @@ Dark, gargantuan, and practically indestructible scales cover every inch of the 
 **The Bound One \
 **
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
+![alt_text](images/Brights/TheBoundOne.png "image_tooltip")
 
 
 **Domain:** Rest, Binding, Stagnation, Patience \
@@ -443,11 +423,7 @@ Desc: \
 **The Beautiful One**
 
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
+![alt_text](images/Brights/TheBeatifulOne.png "image_tooltip")
 
 
 **Aspect:** Passion, Fertility, Beauty \
@@ -475,16 +451,10 @@ Relics:**
 **The Bargainer \
 **
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
+![alt_text](images/Brights/TheBargainer.jpg "image_tooltip")
 
-![alt_text](images/image9.png "image_tooltip")
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.jpg "image_tooltip")
+![alt_text](images/Brights/TheBargainer1.png "image_tooltip")
 ** \
 Aspect:** Prosperity, Secrets, Knowledge \
 **Tenet:** _“Thou shall seek prosperity in the wealth and knowledge of the world.” \
@@ -510,10 +480,7 @@ Relics:**
 **The Ravenous One** \
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
+![alt_text](images/Brights/TheRavenousOne.png "image_tooltip")
  \
 **Domain:** Survival, Hunger, Decay \
 **Tenet:** _“Thou shall indulge and consume the world that has been created.”_ \
@@ -540,12 +507,7 @@ Priest and priestesses of the Ravenous One are generally very plump and travel t
 
 Many around Tera worship the moon presence as a primal force that existed even before the arrival of the Bright Lord. It is said that the Moon Presence used to be whole, but during the Great Betrayal, the battle between Amon and the Bright Lord Split the Moon in two.
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
+![alt_text](images/TheMoons.png "image_tooltip")
 
 
 
@@ -574,10 +536,8 @@ The Sun of Terra fluctuates in its color. Starting its cycle from a warm yellowi
 
 ## 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image13.png "image_tooltip")
+![alt_text](images/Places/TheContinent.png "image_tooltip")
 
 
 The Continent spans most of Terra, owing to its enormous size. It is said that in their conquest of Terra, the Brights tamed the great magma dragons and wyrms that live deep in the tectonic plates of Terra, forcing them to unify the landmasses of Terra.
@@ -593,51 +553,28 @@ The Continent spans most of Terra, owing to its enormous size. It is said that i
 
 The Dawn Empire, ruled by the Lightbringer Imperial family, is the most powerful superpower on the continent.
 
- 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
+![alt_text](images/Brights/TheBrightlord2.png "image_tooltip")
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](images/Races/BrightkinStatue.png "image_tooltip")
 
 
-![alt_text](images/image15.png "image_tooltip")
+![alt_text](images/Places/TheDawnEmpire/Inquisition.png "image_tooltip")
 
 
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
+![alt_text](images/Places/TheDawnEmpire/Inquisition2.png "image_tooltip")
 
 
 
 #### The City of Crossroads
 
 
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
+![alt_text](images/Places/TheDawnEmpire/Crossroads.png.png "image_tooltip")
 
 
 
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.png "image_tooltip")
+![alt_text](images/Places/TheDawnEmpire/Crossroads2.png "image_tooltip")
 
 
 The capital of the Dawn Empire. The Tower of the Bright Lord, which the city is built around, is under constant construction, endlessly reaching into the heavens.
@@ -676,27 +613,13 @@ Maxwell Reddinton, Veronicas older brother, burned at the stake for his heresy a
 Castle Tearstone
 
 
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image20.png "image_tooltip")
+![alt_text](images/Places/Reddland/Reddwall.png "image_tooltip")
 
 
+![alt_text](images/Places/Reddland/Reddwall2.png "image_tooltip")
 
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image21.png "image_tooltip")
-
-
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image22.png "image_tooltip")
+![alt_text](images/Places/Reddland/ReddwallMap.png "image_tooltip")
 
 
 
@@ -706,10 +629,8 @@ The folktale of Killroy the fool is famous throughout Reddland. It summarizes th
 
 “Long ago, in what is now Reddland, the Siren Witch Queen Alana ruled these lands with brutal magic that seeped into and controlled the minds of her subjects.
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image23.png "image_tooltip")
+![alt_text](images/Characters/WitchQueenAlana.png "image_tooltip")
  
 
 In those days, the Siren’s worship of the Moon Presence was seen as blasphemy by Brightinist worshipers across Terra. A young Dhampir  Centurion of the Dawn Empire Legion named Serana Reddington, a fervent woman of faith, boldly went to the Emperor seeking his blessing in the conquest of the Witch Queen Alana’s lands. She received his blessing, though he would give her now forces for her conquest, for if the people oppressed by the Witch Queen Alana would not stand up for themselves, then they did not deserve their freedom.
@@ -717,10 +638,8 @@ In those days, the Siren’s worship of the Moon Presence was seen as blasphemy 
 
 ### 
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image24.png "image_tooltip")
+![alt_text](images/Characters/SeranaReddington.png "image_tooltip")
 
 
 Serana returned to the Crimson Foothills, where her Dhampir kin lived under constant attack and threat of the Witch Queen and Siren’s wrath. Serana was a born leader and when she spoke out against the oppression of the Witch Queen, the Dhampires of the Crimson foothill rallied to her. They named themselves “The Redd Legion”, honoring their new general.
@@ -754,11 +673,7 @@ Castle Pitch Tent
 ### **Isles of Crest**
 
 
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image25.png "image_tooltip")
+![alt_text](images/Places/IslesOfCrest.png "image_tooltip")
 
 
 
@@ -779,11 +694,7 @@ All of the residents expect a brother and sister to die within the first year. F
 ### **Uskal**
 
 
-
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image26.png "image_tooltip")
+![alt_text](images/Places/Uskal.png "image_tooltip")
 
 
 Far to the south lie the cold and inhospitable Colonies of Uskal. The Uskal Colonies came about during the Dark age, when the demand for Silver was great for their fight against the Monsters of the wilds. It was discovered that under its frigid surface, were ample amounts of silver and other precious resources. \
@@ -798,11 +709,7 @@ In modern times, much is the same, its frigid climate and endless supplies of mo
 ### **The Spore**
 
 
-
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image27.png "image_tooltip")
+![alt_text](images/Monsters/TheSpore.png "image_tooltip")
 
 
 The spore is a parasitic fungus that assumes control over the brainstem of its victims. The spore is a bright luminous whitish blue fungus that produces spores that stay airborne. Breathing in a small amount of the spores will lead to death in 1-3 months, where a large amount of spore exposure results in death in the next day to 5 min. Once dead, after a 36 hour hibernation period, the dead will wake up and seek new victims. After a prolonged period, the fungus will emerge from the host. At some point the creature will stop moving and find a tall place in order to spread more fungus. 
@@ -820,10 +727,7 @@ Carriers are the name of the form when they go dormant to spread the spore.
 ### **Brightkin** \
 
 
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image28.png "image_tooltip")
+![alt_text](images/Races/Brightkin.png "image_tooltip")
 
 
 When the Bright Lord gave onto the first loyal women of Fellkind his children, the resulting offspring were the first Brightkin (or Demi-Brights) of Terra. Brightkin, regardless of their mate will always produce a Brightkin. Brightkin children are rare as infertility is common amongst their people, with most couples taking many hundreds of years to produce an offspring. \
@@ -847,10 +751,8 @@ They are fervent worshippers of the Bright Lord and his pantheon. Many young Bri
 ### **Dhampires \
 **
 
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image29.png "image_tooltip")
+![alt_text](images/Races/Dhampire.png "image_tooltip")
 
 
 Dhampires trace their monstrous ancestry from the Vampires that bowed to the Bright Lord. Sunlight is deadly to Vampires, meaning those that stood in front of the Bright Lord surely should have perished… \
@@ -871,10 +773,8 @@ Redland has become a powerful political player as during the Spore pandemic that
 ### **Seakin \
 **
 
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image30.png "image_tooltip")
+![alt_text](images/Races/Seakin.png "image_tooltip")
 
 
 Seakin or Sirens trace their monstrous ancestry from the sea monsters that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord. \
@@ -896,10 +796,8 @@ Sirens worship different gods than the pantheon of the Brights, though they shar
 ### **Beastkin \
 **
 
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image31.png "image_tooltip")
+![alt_text](images/Races/Beastkin.png "image_tooltip")
 
 
 Beastkin or Lycans trace their monstrous ancestry from Werewolves and other Beastial monsters that bowed to the Bright Lord. \
@@ -920,10 +818,8 @@ The Isles of Crest are mainly inhabited by canine beastkin. They are a tribal pe
 **Chitinkin \
 **
 
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image32.png "image_tooltip")
+![alt_text](images/Races/Chitinkin.png "image_tooltip")
 
 
 Chitinkin (or Kiki as they call themselves) trace their ancestry from the ancient insectoid monsters that bowed to the Bright lord. These monsters were granted consciousness and the form of the Bright Lord. \
@@ -945,10 +841,8 @@ The largest of these Colonies in the Hive is located in Caurus. The Chitinkin th
 ### **Dragonkin \
 **
 
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image33.png "image_tooltip")
+![alt_text](images/Races/Dragonkin.png "image_tooltip")
 
 
 Dragonkin trace their monstrous ancestry from the ancient dragons that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord. \
@@ -970,10 +864,8 @@ Mainy Dragonkin worship the Great Leviathan, as it is said that all dragons came
 **Crossbreeds \
 **
 
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image34.png "image_tooltip")
+![alt_text](images/Races/Killroy.png "image_tooltip")
 
 
 Crossbreeds trace their monstrous ancestry from the ancient monsters that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord. However, due to the dilution and mixing of their ancestral bloodlines, the genetic gifts are lost to them. They are often referred to as mudbloods due to their impure bloodlines. \
@@ -996,26 +888,20 @@ Mudbloods make up a large percentage of the population of Terra. Due to their im
 * Griffinkin
 * 
 
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image35.png "image_tooltip")
+![alt_text](images/Races/Griffinkin.png "image_tooltip")
 
 * Serpentskin
 * 
 
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image36.png "image_tooltip")
+![alt_text](images/Races/Serpentkin.png "image_tooltip")
 
 * Griffinkin
 * 
 
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image37.png "image_tooltip")
+![alt_text](images/Races/GriffinkinFemale.png "image_tooltip")
 
 * Wraithkin
 
@@ -5580,25 +5466,12 @@ Brightkin can absorb Light via ample sources of light (such as the Sun) or by dr
 * **Light Requirement: 0 Light (No Light can be used to increase dice)**
 
 
+![alt_text](images/Miracles/Miracles.png "image_tooltip")
 
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image38.png "image_tooltip")
+![alt_text](images/Miracles/Miracles2.png "image_tooltip")
 
 
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image39.png "image_tooltip")
-
-
-
-
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image40.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image40.png "image_tooltip")
+![alt_text](images/Miracles/Miracles3.png "image_tooltip")
 
 
 
@@ -5661,11 +5534,7 @@ Ample sunlight can be used to absorb **Light**.
 By achieving a **CL 3** check, for the cost of **1 Light** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image41.png "image_tooltip")
+![alt_text](images/Miracles/Radinance.png "image_tooltip")
 
 
 
@@ -5851,18 +5720,10 @@ Powerful emotions or memories can be meditated on to regain Light. A user must d
 
 
 
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image42.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](images/Miracles/Blessing "image_tooltip")
 
 
-![alt_text](images/image42.png "image_tooltip")
-
-
-
-
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image43.png "image_tooltip")
+![alt_text](images/Miracles/Runecraft/Blessing1.png "image_tooltip")
 
 
 
@@ -5915,27 +5776,13 @@ Fellkind can absorb and feed on an ample source of primal elements to regain Ich
 * **Ichor Requirement: 0 Ichor (No Ichor can be used to increase dice)**
 
 
-
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image44.png "image_tooltip")
+![alt_text](images/Fellcraft/Fellcraft.png "image_tooltip")
 
 
+![alt_text](images/Fellcraft/Fellcraft2.png "image_tooltip")
 
 
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image45.png "image_tooltip")
-
-
-
-
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image46.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image46.png "image_tooltip")
+![alt_text](images/Fellcraft/Fellcraft3.png "image_tooltip")
 
 
 
@@ -6189,11 +6036,7 @@ Doppelgangers are devious shapeshifters that take on the appearance of other hum
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to these damage types equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image47.png "image_tooltip")
+![alt_text](images/Fellcraft/Polycraft.png "image_tooltip")
 
 
 
@@ -6239,11 +6082,7 @@ Phoenix produce fire via the  immolation of one's own flesh as fuel for the fire
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image48.png "image_tooltip")
+![alt_text](images/Fellcraft/Blazecraft.png "image_tooltip")
 
 
 
@@ -6302,11 +6141,7 @@ Water can be used to absorb **Ichor**. This can be done by submerging oneself in
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image49.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image49.png "image_tooltip")
+![alt_text](images/Fellcraft/Hydrocraft.png "image_tooltip")
 
 
 
@@ -6352,7 +6187,7 @@ By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain 
 <p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image50.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image50.png "image_tooltip")
+![alt_text](images/Fellcraft/Electrocraft.png "image_tooltip")
 
 
 
@@ -6391,19 +6226,10 @@ Terra can be used to absorb Ichor. This can be done near exposed earth, rock, ge
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image51.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image51.png "image_tooltip")
+![alt_text](images/Fellcraft/Terracraft.png "image_tooltip")
 
 
-
-
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image52.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image52.png "image_tooltip")
+![alt_text](images/Fellcraft/Terracraft2.png "image_tooltip")
 
 
 **Galecraft**
@@ -6447,11 +6273,7 @@ Gale can be used to absorb **Ichor**. This can be done near storms, tornadoes, p
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image53.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image53.png "image_tooltip")
+![alt_text](images/Fellcraft/Galecraft.png "image_tooltip")
 
 
 
@@ -6491,19 +6313,10 @@ Cold can be used to absorb **Ichor**. This can be done with blizzards, frigid en
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image54.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image54.png "image_tooltip")
+![alt_text](images/Fellcraft/Cryocraft.png "image_tooltip")
 
 
-
-
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image55.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image55.png "image_tooltip")
+![alt_text](images/Fellcraft/Cryocraft2.png"image_tooltip")
 
 
 
@@ -6543,13 +6356,7 @@ Large amounts of plant life can be used to absorb **Ichor**. This can be done wi
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. **For each resistance point gained, gain a weakness level to Fire damage.** This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image56.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image56.png "image_tooltip")
-
-
+![alt_text](images/Fellcraft/Naturecraft.png "image_tooltip")
 
 
 
@@ -6587,11 +6394,7 @@ Toxins can be used to absorb **Ichor**. If the toxin is already within the user,
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image57.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image57.png "image_tooltip")
+![alt_text](images/Fellcraft/Toxincraft.png "image_tooltip")
 
 
 
@@ -6649,13 +6452,7 @@ Souls can be absorbed and feed on to regain **Ichor**. Victim can not resist. An
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-
-
-<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image58.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image58.png "image_tooltip")
+![alt_text](images/Fellcraft/Soulcraft.png "image_tooltip")
 
 
 
@@ -6698,11 +6495,7 @@ Shadow can be used to absorb **Ichor**. This can be done in pitch black environm
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image59.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image59.png "image_tooltip")
+![alt_text](images/Fellcraft/Shadowcraft.png "image_tooltip")
 
 
 
@@ -6746,11 +6539,7 @@ Thoughts can be used to absorb Ichor. The victim must not be resisting. This can
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image60.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image60.png "image_tooltip")
+![alt_text](images/Fellcraft/Mindcraft.png "image_tooltip")
 
 
 
@@ -6789,11 +6578,7 @@ Large amounts of magnetic waves can be used to absorb **Ichor**. This can be don
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. **And for each resistance point gained, gain a weakness level to Electrice damage.** This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image61.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image61.png "image_tooltip")
+![alt_text](images/Fellcraft/Ferracraft.png "image_tooltip")
 
 
 
@@ -6831,11 +6616,7 @@ Large sonic cracks can be absorbed to regain **Ichor**. This can be done with ex
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 
-
-<p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image62.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image62.png "image_tooltip")
+![alt_text](images/Fellcraft/Sonocraft.png "image_tooltip")
 
 
 
@@ -7070,11 +6851,7 @@ By performing the following check below, a character may produce enough healing 
 Blood can be consumed to absorb **Ichor**. Every time a Hemacraft attack is successfully made, you may regain **1 Ichor**.  An extra point of **Ichor** should be awarded if a Fellkind of Monster blood is consumed. The opponent loses **1 Ichor**.
 
 
-
-<p id="gdcalert63" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image63.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert64">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image63.png "image_tooltip")
+![alt_text](images/Fellcraft/Hemacraft.png "image_tooltip")
 
 
 
@@ -7172,21 +6949,10 @@ Prey can be absorbed to regain **Ichor**. This can be done by mummifying the pre
 By achieving a **CL 3** check, for the cost of **1 Ichor** a character may gain the ability to stick to walls like a spider. The user gains automatic wins to climb checks equal to their **Spidercraft** skill.  This effect has a duration of 1 hour.
 
 
+![alt_text](images/Fellcraft/Spidercraft.png "image_tooltip")
 
 
-
-<p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image64.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image64.png "image_tooltip")
-
-
-
-
-<p id="gdcalert65" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image65.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert66">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image65.png "image_tooltip")
+![alt_text](images/Fellcraft/Spidercraft2.png "image_tooltip")
 
 
 
@@ -7226,11 +6992,7 @@ Ancient myths tell how when the first dragons were born, they were granted wings
 Plasma and Sunlight can be used to absorb Ichor. 
 
 
-
-<p id="gdcalert66" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image66.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert67">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image66.png "image_tooltip")
+![alt_text](images/Fellcraft/Plasmacraft.png"image_tooltip")
 
 
 
@@ -7270,11 +7032,7 @@ Like the Dragons of the Great Storm, Stormcraft users may manipulate the weather
 Though if the legend is true and the storms do come from the Great Storm, then it would be wise for one to influence the storms wisely. As surely dragons do not tolerate the interferences of mere mortals.
 
 
-
-<p id="gdcalert67" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image67.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert68">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image67.jpg "image_tooltip")
+![alt_text](images/Fellcraft/Blizzardcraft.png "image_tooltip")
 
 
 
@@ -7311,17 +7069,10 @@ When the horrors of Terra bowed down before the Bright Lord, the Bright Lord con
 The influence of tectonic plates can result in magma geysers and other geological phenomena. If enough masters of Magmacraft were brought together, Terra itself might shift once again…
 
 
-
-<p id="gdcalert68" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image68.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert69">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image68.png "image_tooltip")
+![alt_text](images/Fellcraft/Magmacraft.png "image_tooltip")
 
 
-<p id="gdcalert69" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image69.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert70">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image69.png "image_tooltip")
+![alt_text](images/Fellcraft/Magmacraft2.png "image_tooltip")
 
 
 
@@ -7356,11 +7107,7 @@ In the frigid places of Terra, Blizzard Dragon will bury entire kingdoms in grea
 Like the Blizzard Dragon, Blizzardcraft users may manipulate the Blizzards to their liking. How large and furious the blizzard determines the check required. A check to increase the ferocity of a blizzard already in progress should be far easier than if the user tried to do the same with a sunny warm day.
 
 
-
-<p id="gdcalert70" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image70.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert71">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image70.png "image_tooltip")
+![alt_text](images/Fellcraft/Blizzardcraft.png "image_tooltip")
 
 
 The only way for Fellkin to obtain new Fellcraft is to emulate the genetic links of the Monsters they originate from.
@@ -7371,22 +7118,12 @@ Squares represent normal Fellcrafts. These can be accessed if you choose this if
 
 Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
 
-
-
-<p id="gdcalert71" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image71.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert72">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image71.png "image_tooltip")
+![alt_text](images/Fellcraft/FellcraftTree.png "image_tooltip")
 
 
 **Runecraft**
 
-
-
-<p id="gdcalert72" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image72.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert73">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image72.png "image_tooltip")
+![alt_text](images/Runecraft/Runecraft.png "image_tooltip")
 
 
 Runes are symbols that have been discovered, usually via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths  use conscious thought to manipulate reality in a favorable direction.
@@ -7632,10 +7369,8 @@ Constructed using the **Rune of Air, Rune of Gravity**, and **Rune of Mind**.
 
 ### 
 
-<p id="gdcalert73" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image73.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert74">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image73.png "image_tooltip")
+![alt_text](images/Runecraft/SlowFall.png "image_tooltip")
 
 
 
@@ -7681,7 +7416,7 @@ Constructed using the **Rune of Earth, **and **Rune of Water**.
 <p id="gdcalert74" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image74.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert75">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image74.png "image_tooltip")
+![alt_text](images/Runecraft/OilSpill.png "image_tooltip")
 
 
 
@@ -7722,11 +7457,7 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 Constructed using the **Rune of Sound , Rune of Mind**, and **Rune of Body **.
 
 
-
-<p id="gdcalert75" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image75.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert76">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image75.png "image_tooltip")
+![alt_text](images/Runecraft/Alert.png "image_tooltip")
 
 
 
@@ -7766,11 +7497,7 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 Constructed using the **Rune of Mind**.
 
 
-
-<p id="gdcalert76" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image76.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert77">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image76.png "image_tooltip")
+![alt_text](images/Runecraft/NoiselessPicture.png "image_tooltip")
 
 
 
@@ -7812,11 +7539,7 @@ The blade can only be ignited as long as it is above** 3 durability**. The sword
 Constructed using the **Rune of Fire** and **Rune of Sound.**
 
 
-
-<p id="gdcalert77" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image77.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert78">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image77.png "image_tooltip")
+![alt_text](images/Runecraft/FlameTounge.png "image_tooltip")
 
 
 
@@ -7840,11 +7563,7 @@ Represents the physical phenomena known as fire.
 * +15 feet per dice 
 
 
-
-<p id="gdcalert78" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image78.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert79">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image78.png "image_tooltip")
+![alt_text](images/Runecraft/FireRune.png "image_tooltip")
 
 
 
@@ -7858,11 +7577,7 @@ Represents the physical phenomena known as fire.
 * +10 feet per dice (no combat modifier dice, exculding focused)
 
 
-
-<p id="gdcalert79" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image79.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert80">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image79.png "image_tooltip")
+![alt_text](images/Runecraft/EarthRune.png "image_tooltip")
 
 
 
@@ -7878,11 +7593,7 @@ Represents the physical phenomena known as fire.
 * +10 feet per dice 
 
 
-
-<p id="gdcalert80" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image80.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert81">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image80.png "image_tooltip")
+![alt_text](images/Runecraft/WaterRune.png "image_tooltip")
 
 
 
@@ -7896,11 +7607,7 @@ Represents the physical phenomena known as fire.
 * +15 feet per 
 
 
-
-<p id="gdcalert81" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image81.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert82">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image81.png "image_tooltip")
+![alt_text](images/Runecraft/AirRune.png "image_tooltip")
 
 
 
@@ -7914,11 +7621,7 @@ Represents the physical phenomena known as fire.
 * +15 feet per dice 
 
 
-
-<p id="gdcalert82" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image82.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert83">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image82.png "image_tooltip")
+![alt_text](images/Runecraft/ElectricRune.png "image_tooltip")
 
 
 
@@ -7932,11 +7635,7 @@ Represents the physical phenomena known as fire.
 * +15 feet per dice 
 
 
-
-<p id="gdcalert83" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image83.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert84">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image83.png "image_tooltip")
+![alt_text](images/Runecraft/ColdRune.png "image_tooltip")
 
 
 
@@ -7952,11 +7651,7 @@ Represents the physical phenomena known as fire.
 * +5 feet per dice 
 
 
-
-<p id="gdcalert84" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image84.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert85">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image84.png "image_tooltip")
+![alt_text](images/Runecraft/ToxinRune.png "image_tooltip")
 
 
 
@@ -7970,11 +7665,7 @@ Represents the physical phenomena known as fire.
 * +5 feet per dice 
 
 
-
-<p id="gdcalert85" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image85.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert86">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image85.png "image_tooltip")
+![alt_text](images/Runecraft/BloodRune.png "image_tooltip")
 
 
 
@@ -7988,11 +7679,7 @@ Represents the physical phenomena known as fire.
 * +15 feet per dice 
 
 
-
-<p id="gdcalert86" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image86.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert87">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image86.png "image_tooltip")
+![alt_text](images/Runecraft/LightRune.png "image_tooltip")
 
 
 
@@ -8005,12 +7692,7 @@ Represents the physical phenomena known as fire.
 
 * +10 feet per dice 
 
-
-
-<p id="gdcalert87" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image87.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert88">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image87.png "image_tooltip")
+![alt_text](images/Runecraft/DarkRune.png "image_tooltip")
 
 
 
@@ -8026,11 +7708,7 @@ Represents the physical phenomena known as fire.
 * +15 feet per dice 
 
 
-
-<p id="gdcalert88" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image88.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert89">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image88.png "image_tooltip")
+![alt_text](images/Runecraft/SoundRune.png "image_tooltip")
 
 
 
@@ -8044,11 +7722,7 @@ Represents the physical phenomena known as fire.
 * +5 feet per 2 dice rounded down 
 
 
-
-<p id="gdcalert89" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image89.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert90">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image89.png "image_tooltip")
+![alt_text](images/Runecraft/BodyRune.png "image_tooltip")
 
 
 
@@ -8066,11 +7740,7 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 * +5 feet per dice 
 
 
-
-<p id="gdcalert90" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image90.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert91">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image90.png "image_tooltip")
+![alt_text](images/Runecraft/MindRune.png "image_tooltip")
 
 
 
@@ -8083,12 +7753,7 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 * +10 feet per dice 
 
-
-
-<p id="gdcalert91" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image91.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert92">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image91.png "image_tooltip")
+![alt_text](images/Runecraft/SoulRune.png "image_tooltip")
 
 
 
@@ -8098,43 +7763,28 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 
 
-<p id="gdcalert92" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image92.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert93">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image92.png "image_tooltip")
+![alt_text](images/Runecraft/FocusRune.png "image_tooltip")
 
 
 
 #### Rune of Unfocus
 
 
-
-<p id="gdcalert93" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image93.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert94">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image93.png "image_tooltip")
+![alt_text](images/Runecraft/UnfocusRune.png "image_tooltip")
 
 
 
 #### Rune of Time
 
 
-
-<p id="gdcalert94" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image94.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert95">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image94.png "image_tooltip")
+![alt_text](images/Runecraft/TimeRune.png "image_tooltip")
 
 
 
 #### Rune of Strength
 
 
-
-<p id="gdcalert95" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image95.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert96">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image95.png "image_tooltip")
+![alt_text](images/Runecraft/StrengthRune.png "image_tooltip")
 
 
 
@@ -8142,12 +7792,7 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### Rune of Gravity or Mass
 
-
-
-<p id="gdcalert96" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image96.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert97">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image96.png "image_tooltip")
+![alt_text](images/Runecraft/gravityRune.png "image_tooltip")
 
 
 
