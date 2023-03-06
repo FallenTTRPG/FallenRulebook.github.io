@@ -25,24 +25,28 @@ Map Download:
   - [**The Dark Age**](#the-dark-age)
   - [**The Dawn Age**](#the-dawn-age)
 - [**The Bright Pantheon**](#the-bright-pantheon)
+  - [**The Bright Lord**](#the-bright-lord)
+  - [**The Great Betrayer**](#the-great-betrayer)
+  - [**The Twisting One**](#the-twisting-one)
+  - [**The Bound One**](#the-bound-one)
+  - [**The Beautiful One**](#the-beautiful-one)
+  - [**The Bargainer**](#the-bargainer)
+  - [**The Ravenous One**](#the-ravenous-one)
+  - [**Other Deities**](#other-deities)
+  - [**The Moon Presence**](#the-moon-presence)
+    - [**The Old One**](#the-old-one)
+    - [**The Younger**](#the-younger)
+- [**Terra**](#terra)
+  - [**The Sun**](#the-sun)
+  - [**The Continent**](#the-continent)
   - [](#)
-  - [Other Deities](#other-deities)
-    - [**The Moon Presence**](#the-moon-presence)
-      - [The Old One](#the-old-one)
-      - [The Younger](#the-younger)
-  - [Terra](#terra)
-    - [**The Sun**](#the-sun)
-    - [**The Continent**](#the-continent)
-  - [](#-1)
-  - [](#-2)
-  - [Countries of Terra](#countries-of-terra)
-    - [**The Dawn Empire**](#the-dawn-empire)
-      - [The City of Crossroads](#the-city-of-crossroads)
+  - [**The Dawn Empire**](#the-dawn-empire)
+    - [**The City of Crossroads**](#the-city-of-crossroads)
     - [**Reddland**](#reddland)
       - [The Reddingtons](#the-reddingtons)
       - [Redwall](#redwall)
       - [The Tragedy of Killroy the Fool](#the-tragedy-of-killroy-the-fool)
-    - [](#-3)
+    - [](#-1)
       - [Tentcity](#tentcity)
     - [**Isles of Crest**](#isles-of-crest)
       - [Starfall](#starfall)
@@ -62,7 +66,7 @@ Map Download:
       - [Level 3 victory](#level-3-victory)
       - [Level 4 Victory](#level-4-victory)
       - [Level 5 victory and higher](#level-5-victory-and-higher)
-    - [](#-4)
+    - [](#-2)
     - [**Challenge Levels**](#challenge-levels)
     - [**Battlemap Rules**](#battlemap-rules)
       - [Movement](#movement)
@@ -74,11 +78,11 @@ Map Download:
     - [**Core Skills Rules**](#core-skills-rules)
       - [Strength Skills Redux](#strength-skills-redux)
       - [Intelligence Skills Redux](#intelligence-skills-redux)
-    - [](#-5)
+    - [](#-3)
     - [**Skill Specialty**](#skill-specialty)
     - [**Evasion Roll**](#evasion-roll)
     - [**Hardcore Carry Weight**](#hardcore-carry-weight)
-    - [](#-6)
+    - [](#-4)
     - [**Combat Modifiers**](#combat-modifiers)
       - [Dash (2x Movement Speed)](#dash-2x-movement-speed)
       - [Charge (+1d6)](#charge-1d6)
@@ -97,7 +101,7 @@ Map Download:
         - [Half Cover: +2 Defense](#half-cover-2-defense)
         - [**Three-quarters Cover: +3 Defense**](#three-quarters-cover-3-defense)
         - [**Full Cover: Can't be engaged or engage in ranged combat**](#full-cover-cant-be-engaged-or-engage-in-ranged-combat)
-    - [](#-7)
+    - [](#-5)
     - [**Healing**](#healing)
       - [Minor Healing Factor](#minor-healing-factor)
       - [Minor Heal](#minor-heal)
@@ -105,7 +109,7 @@ Map Download:
       - [Serious Heal](#serious-heal)
       - [Superior Heal](#superior-heal)
       - [Revival Heal](#revival-heal)
-    - [](#-8)
+    - [](#-6)
     - [**Mounts in combat**](#mounts-in-combat)
     - [**Damage Types**](#damage-types)
       - [Physical Damage Types](#physical-damage-types)
@@ -125,26 +129,26 @@ Map Download:
     - [Spiritual Defense](#spiritual-defense)
     - [Armor Durability and Damage](#armor-durability-and-damage)
     - [Armor Tiers](#armor-tiers)
-    - [](#-9)
+    - [](#-7)
     - [**Status Effects (Optional)**](#status-effects-optional)
     - [**Hemorrhage**](#hemorrhage)
     - [Poisoned](#poisoned)
     - [Burn](#burn)
-    - [](#-10)
+    - [](#-8)
     - [Necrosis](#necrosis)
     - [**Silverburn**](#silverburn)
     - [Frostbite](#frostbite)
     - [\[Unfinished\] Madness](#unfinished-madness)
     - [\[Unfinished\] Sleep](#unfinished-sleep)
-    - [](#-11)
+    - [](#-9)
     - [**Hardcore Weapon Tiers and Durability**](#hardcore-weapon-tiers-and-durability)
     - [Weapon Levels](#weapon-levels)
     - [Rarity](#rarity)
-    - [](#-12)
+    - [](#-10)
     - [**Effective and Max Range**](#effective-and-max-range)
     - [**Silvered Weapons**](#silvered-weapons)
     - [**Engageable Opponents**](#engageable-opponents)
-    - [](#-13)
+    - [](#-11)
     - [Weapon Skill Transfer](#weapon-skill-transfer)
     - [Dual wielding](#dual-wielding)
     - [**Hardcore Weapon Modifiers**](#hardcore-weapon-modifiers)
@@ -154,7 +158,7 @@ Map Download:
         - [Heavy Crossbow](#heavy-crossbow)
         - [Light Bow](#light-bow)
         - [Heavy Bow](#heavy-bow)
-      - [](#-14)
+      - [](#-12)
       - [Exotic Ranged Weapons](#exotic-ranged-weapons)
         - [Blowgun](#blowgun)
         - [Sling](#sling)
@@ -164,24 +168,24 @@ Map Download:
         - [Broadhead](#broadhead)
         - [Wood Tipped](#wood-tipped)
         - [Sling Ammo](#sling-ammo)
-      - [](#-15)
+      - [](#-13)
       - [Unarmed](#unarmed)
       - [Small Weapons](#small-weapons)
         - [Small hafted blade/point](#small-hafted-bladepoint)
         - [Small blunt](#small-blunt)
         - [Small bladed](#small-bladed)
-      - [](#-16)
+      - [](#-14)
       - [Medium weapons](#medium-weapons)
         - [Medium hafted blade/point](#medium-hafted-bladepoint)
         - [Medium hafted blunt](#medium-hafted-blunt)
         - [Medium swords](#medium-swords)
-      - [](#-17)
+      - [](#-15)
       - [Large weapons](#large-weapons)
         - [Large hafted blade/point](#large-hafted-bladepoint)
         - [Large hafted blunt](#large-hafted-blunt)
         - [Large swords](#large-swords)
         - [Short spear](#short-spear)
-      - [](#-18)
+      - [](#-16)
       - [Reach Weapons](#reach-weapons)
         - [Reach hafted blade/point](#reach-hafted-bladepoint)
         - [Reach hafted blunt](#reach-hafted-blunt)
@@ -189,7 +193,7 @@ Map Download:
         - [Longspear](#longspear)
         - [Whip](#whip)
         - [Man catcher](#man-catcher)
-      - [](#-19)
+      - [](#-17)
       - [Ballistics - NOT IN BASE FALLEN… yet](#ballistics---not-in-base-fallen-yet)
         - [Hand Ballistic](#hand-ballistic)
         - [Shoulder stocked Ballistic](#shoulder-stocked-ballistic)
@@ -321,22 +325,22 @@ Map Download:
     - [**Ichor of Monster or Fellkin blood**](#ichor-of-monster-or-fellkin-blood)
     - [**Charged Electrite**](#charged-electrite)
     - [**Runecraft in Combat**](#runecraft-in-combat)
-    - [](#-20)
+    - [](#-18)
     - [**Compound Runes**](#compound-runes)
       - [Slow Fall](#slow-fall)
     - [\*\*Effect: \*\*](#effect-)
     - [**Challenge Level:**](#challenge-level)
     - [\*\*Requirement: \*\*](#requirement-)
     - [\*\*Compound Rune: \*\*](#compound-rune-)
-    - [](#-21)
-    - [](#-22)
+    - [](#-19)
+    - [](#-20)
       - [Oil Spill](#oil-spill)
     - [\*\*Effect: \*\*](#effect--1)
     - [**Challenge Level:**](#challenge-level-1)
     - [\*\*Requirement: \*\*](#requirement--1)
     - [\*\*Compound Rune: \*\*](#compound-rune--1)
-      - [](#-23)
-      - [](#-24)
+      - [](#-21)
+      - [](#-22)
       - [Alert](#alert)
     - [\*\*Effect: \*\*](#effect--2)
     - [**Challenge Level:**](#challenge-level-2)
@@ -352,7 +356,7 @@ Map Download:
     - [\*\*Requirement: \*\*](#requirement--4)
     - [\*\*Components: \*\*](#components-)
     - [\*\*Compound Rune: \*\*](#compound-rune--4)
-    - [](#-25)
+    - [](#-23)
     - [**Pure Runes**](#pure-runes)
       - [Rune of Fire](#rune-of-fire)
     - [\*\*Range: \*\*Long](#range-long)
@@ -387,14 +391,14 @@ Map Download:
       - [Rune of Time](#rune-of-time)
       - [Rune of Strength](#rune-of-strength)
       - [Rune of Gravity or Mass](#rune-of-gravity-or-mass)
-  - [](#-26)
+  - [](#-24)
   - [Creature List](#creature-list)
     - [**Humanoids**](#humanoids)
     - [**Animals**](#animals)
     - [**Monsters**](#monsters)
   - [Commerce](#commerce)
     - [**Currency**](#currency)
-    - [](#-27)
+    - [](#-25)
     - [**Out of Game Downtime Bartering Rules**](#out-of-game-downtime-bartering-rules)
     - [**Shop Tiers**](#shop-tiers)
   - [Extra Stuff](#extra-stuff)
@@ -547,7 +551,7 @@ Brights are a group of beings that are most commonly associated with the Bright 
 
 Each Bright or god in the Pantheon of Brightinism has an associated Tenet of Life.
 
-**The Bright Lord**
+## **The Bright Lord**
 
 ![alt_text](images/Brights/TheBrightlord.png "image_tooltip")
 ** \
@@ -567,16 +571,13 @@ The Bright Lord is the chief deity of Brightinism. As the creator of Fellkind an
 
 
 
-**The Great Betrayer \
-**
+## **The Great Betrayer**
 
 ![alt_text](images/Brights/TheGreatBetrayer.png "image_tooltip")
-** \
-Domain:** Vengeance, Fury, Betrayal \
-**Tenet:** _“_Thou shall take up arms and seek righteous vengeance upon those that have wronged you.”
-
-**Aliases: **Amon (This name is frowned upon, it is considered heresy and a curse), The Faithful One, Demon of the West, Spear of the Brights \
- \
+**Domain:** Vengeance, Fury, Betrayal \
+**Tenet:** _“Thou shall take up arms and seek righteous vengeance upon those that have wronged you.”_\
+**Aliases:** Amon (This name is frowned upon, it is considered heresy and a curse), The Faithful One, Demon of the West, Spear of the Brights \
+\
 **Lore:**
 
 The Great Betrayer, or Amon, the Faithful One, as he was known before the Great Betrayal, was the most loyal servant of the Bright Lord. Bestowed by the Bright Lord, Amon faithfully served the Bright Lord until his dramatic and sudden betrayal.
@@ -591,25 +592,18 @@ Amon’s Mark, “the Mark/Brand of the Undying” is referenced in many ancient
 Amon's love of weaponry and equipment is obvious, as many of the weapons we use today were taught to our ancestors by Amon. Artifacts of Amon are closely guarded deep within the Dawn Empire's capital of Crossroads. Though whispers tell tales of artifacts lost to the ages… \
  \
 **Relics:**
+* The Spear of Destiny
 
 
-
-* 
-
-
-
-**The Twisting One \
-**
+## **The Twisting One**
 
 
 ![alt_text](images/Brights/TheTwistingOne.png "image_tooltip")
 
 ![alt_text](images/Brights/TheTwistingOne1.png "image_tooltip")
-** \
-Aspect:** Want, Growth, Change \
-**Tenet:** _“_Thou shall recognize the success of one's neighbor, and labor to obtain success thineself._” \
-**Aliases: **_Leviathan, The Great Circle, Lord of the Deep, Rahab, Progenitor of Dragons, Ouroboros, The Primeval Sea Serpent, The World Serpent, Bright of Chaos, The Shielded One,  The Sea Dragon, Serpent of the Abyss \
- \
+**Aspect:** Want, Growth, Change \
+**Tenet:** _“Thou shall recognize the success of one's neighbor, and labor to obtain success thineself.”_ \
+**Aliases:** Leviathan, The Great Circle, Lord of the Deep, Rahab, Progenitor of Dragons, Ouroboros, The Primeval Sea Serpent, The World Serpent, Bright of Chaos, The Shielded One,  The Sea Dragon, Serpent of the Abyss \
 **Lore:**  \
 The “World Serpent” from the Isles of Crest, The Ouroboros in Leodelphia, and The Leviathan of Redwall all describe the same singular entity. The gargantuan Bright is so large that it is said to encircle the foundations of the world, and is said to have dwelt on Terra even before the arrival of the Bright Lord. Seen to represent want, growth, and change, the Twisting One is worshiped by Seakin, Saliours, and those seeking radical change in their lives.
 
@@ -622,57 +616,38 @@ It is said that no physical weapon can pierce its impenetrable scales. A scale o
 **Description:**  \
 Eye witness accounts of The Twisting One’s body, as it is known in the Dawn Empire, are common. Many mistake parts of its body as islands and landmasses.
 
-Dark, gargantuan, and practically indestructible scales cover every inch of the creature's body. While sightings of parts of The Twisting One’s body are quite common, there are very few accounts of those that have witnessed its head, for obvious reasons. Those that lived to tell the tale describe the following as being so large it blocks out the sun. Its eyes glow red like the rays of dawn, smoke pours from its nostrils with snorts throwing flashes of light. Direct eye contact with the creature turns the onlooker to stone and it breathes storms of fire. \
-
+Dark, gargantuan, and practically indestructible scales cover every inch of the creature's body. While sightings of parts of The Twisting One’s body are quite common, there are very few accounts of those that have witnessed its head, for obvious reasons. Those that lived to tell the tale describe the following as being so large it blocks out the sun. Its eyes glow red like the rays of dawn, smoke pours from its nostrils with snorts throwing flashes of light. Direct eye contact with the creature turns the onlooker to stone and it breathes storms of fire.
 
 **Relics:**
+  * The Serpent Staff 
 
-
-
-* The Serpent Staff \
-
-
-
-## 
-
-**The Bound One \
-**
-
+## **The Bound One**
 ![alt_text](images/Brights/TheBoundOne.png "image_tooltip")
-
 
 **Domain:** Rest, Binding, Stagnation, Patience \
 **Tenet:** _“Thou shall go without care for the opinions of the world.”_ \
-**Aliases: **The Shiftless One, The Deep Dreamer, The Still One \
-**Lore: \
-	_“With no respite from the outside world, the Bound One could only look within. And there it found the gentle embrace of an infinite dream…” \
-_ \
-**During creation, the Bound One introduces rest, sleep, and relaxation into our world. Those that follow The Bound One seek enlightenment not through the concerns of the physical world, but those of deep relaxation and dreams. These Bound Apostles, laden with heavy robes and chains, sleep endlessly, only awakening to relay secrets and inventions found within the dreams. Many of the runes used throughout Terra today were discovered in this fashion. \
- \
-	** \
-Desc: \
-**There are zero personal accounts of the Bound One. The Bound One is often depicted in Cathedral statues as a chained, headless form with no discernible features. Often depicted as slumped forward or lying on the ground.
+**Aliases:** The Shiftless One, The Deep Dreamer, The Still One \
+**Lore:** _“With no respite from the outside world, the Bound One could only look within. And there it found the gentle embrace of an infinite dream…” \\
+**During creation, the Bound One introduces rest, sleep, and relaxation into our world. Those that follow The Bound One seek enlightenment not through the concerns of the physical world, but those of deep relaxation and dreams. These Bound Apostles, laden with heavy robes and chains, sleep endlessly, only awakening to relay secrets and inventions found within the dreams. Many of the runes used throughout Terra today were discovered in this fashion."_ \
+\
+\
+**Desc:** \
+There are zero personal accounts of the Bound One. The Bound One is often depicted in Cathedral statues as a chained, headless form with no discernible features. Often depicted as slumped forward or lying on the ground.
 
 **Relics:**
 
-
-
-* 
-
-
-
-**The Beautiful One**
+## **The Beautiful One**
 
 
 ![alt_text](images/Brights/TheBeatifulOne.png "image_tooltip")
 
 
 **Aspect:** Passion, Fertility, Beauty \
-**Tenet:** _“_Thou has been given the passion of flesh to spread across the land._”_
+**Tenet:** *“Thou has been given the passion of flesh to spread across the land.”*
 
-**Aliases: **The Lady of Night, Bright of Fertility, The Rebellious \
+**Aliases:** **The Lady of Night, Bright of Fertility, The Rebellious \
  \
-**Lore: **
+**Lore:**
 
 During creation, The Beautiful One gave unto Fellkind the gift of Passion, Fertility, and Beauty. The Beautiful One seeks to encourage the passion of flesh that they have been given, to cultivate new life.
 
@@ -680,28 +655,20 @@ Whether it be lovers, aspiring mothers, vain queens, or brothel workers, many pr
 
 Priests and priestesses of The Beautiful One can be easily picked out by their extremely fine and provocative clothing. They are known for their immense promiscuity, exchanging their passion for the favor and support of powerful lords and wealthy merchants.
 
-** \
-Relics:**
-
-
-
+\
+**Relics:**
 * 
 
 
 
-**The Bargainer \
-**
-
-
+## **The Bargainer**
 ![alt_text](images/Brights/TheBargainer.jpg "image_tooltip")
-
 ![alt_text](images/Brights/TheBargainer1.png "image_tooltip")
-** \
-Aspect:** Prosperity, Secrets, Knowledge \
-**Tenet:** _“Thou shall seek prosperity in the wealth and knowledge of the world.” \
-**Aliases: **_The Clever One, The Keeper of Secrets, Bright of Trickery, Cleverous
-
-**Lore: **
+\
+**Aspect:** Prosperity, Secrets, Knowledge \
+**Tenet:** *“Thou shall seek prosperity in the wealth and knowledge of the world.”* \
+**Aliases:** The Clever One, The Keeper of Secrets, Bright of Trickery, Cleverous
+**Lore:**
 
 “Everything has a price…” -The Bargainer
 
@@ -710,24 +677,16 @@ During creation, The Bargainer gave unto Fellkind the desire for prosperity and 
 Often depicted as a figure sitting at a desk or throne surrounded by secret knowledge or wealth. Those that commonly worship The Bargainer include merchants, scholars, rogues, mercenaries, and spies.
 
 Priests and priestesses of the Bargainer make up the highest echelons of merchants, scholars, and spies, etc… Any that pursues wealth and secret knowledge are capable of gaining entry into the priesthood, which behaves much closer to a secret society of the most wealthy, powerful, and influential.
+\
+**Relics:**
 
-** \
-Relics:**
-
-
-
-* 
-
-**The Ravenous One** \
-
-
+## **The Ravenous One**
 ![alt_text](images/Brights/TheRavenousOne.png "image_tooltip")
  \
 **Domain:** Survival, Hunger, Decay \
 **Tenet:** _“Thou shall indulge and consume the world that has been created.”_ \
-**Aliases: **The Voracious One, The Hungry One \
-**Lore:**
-
+**Aliases:** The Voracious One, The Hungry One \
+**Lore:**\
 During creation, The Ravenous One gave unto Fellkind the insatiable hunger of life, lest they wither away. The Ravenous one wishes for the people of Terra to indulge and consume the world, lest it consume them…
 
 Depicted in various cultures across Terra, often as an enormous maw of teeth or mandibles. Common worshipers of the Ravenous One include Chitinkin, hunters, farmers, chefs, starving peasants, and indulgent lords and ladies.
@@ -737,42 +696,33 @@ Priest and priestesses of the Ravenous One are generally very plump and travel t
 **Relics:**
 
 
-
-* 
-
-
-## Other Deities
+## **Other Deities**
 
 
-### **The Moon Presence**
+## **The Moon Presence**
 
 Many around Tera worship the moon presence as a primal force that existed even before the arrival of the Bright Lord. It is said that the Moon Presence used to be whole, but during the Great Betrayal, the battle between Amon and the Bright Lord Split the Moon in two.
 
-![alt_text](images/TheMoons.png "image_tooltip")
+![alt_text](images/Places/TheMoons.png "image_tooltip")
 
-
-
-#### The Old One
+### **The Old One**
 
 The Larger of the two moons of Terra. Enraged by the separation from its other half, it is said to harbor animosity against the Bright Lord. 
 
 
-#### The Younger
+### **The Younger**
 
 The smaller of the two moons of Terra. Said to be the gentler aspect of the moon presence, bringing gentle tides, sailors back to their families, and protecting pregnant mothers. 
 
+# **Terra**
 
 
-
-## Terra
-
-
-### **The Sun**
+## **The Sun**
 
 The Sun of Terra fluctuates in its color. Starting its cycle from a warm yellowish to orangish to reddish  glow. As the Sun progresses in its cycle, it slowly becomes larger in the sky. At the end of its cycle, a brilliant burst of light pulls the star back together, resetting to its warm yellow hue. This cycle varies, though tends to happen every 3-5 months.
 
 
-### **The Continent**
+## **The Continent**
 
 
 ## 
@@ -783,14 +733,7 @@ The Sun of Terra fluctuates in its color. Starting its cycle from a warm yellowi
 
 The Continent spans most of Terra, owing to its enormous size. It is said that in their conquest of Terra, the Brights tamed the great magma dragons and wyrms that live deep in the tectonic plates of Terra, forcing them to unify the landmasses of Terra.
 
-
-## 
-
-
-## Countries of Terra
-
-
-### **The Dawn Empire**
+## **The Dawn Empire**
 
 The Dawn Empire, ruled by the Lightbringer Imperial family, is the most powerful superpower on the continent.
 
@@ -808,13 +751,10 @@ The Dawn Empire, ruled by the Lightbringer Imperial family, is the most powerful
 
 
 
-#### The City of Crossroads
+### **The City of Crossroads**
 
 
-![alt_text](images/Places/TheDawnEmpire/Crossroads.png.png "image_tooltip")
-
-
-
+![alt_text](images/Places/TheDawnEmpire/Crossroads.png "image_tooltip")
 ![alt_text](images/Places/TheDawnEmpire/Crossroads2.png "image_tooltip")
 
 
