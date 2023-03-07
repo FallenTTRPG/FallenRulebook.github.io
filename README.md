@@ -752,8 +752,6 @@ The Dawn Empire, ruled by the Lightbringer Imperial family, is the most powerful
 
 
 ### **The City of Crossroads**
-
-
 ![alt_text](images/Places/TheDawnEmpire/Crossroads.png "image_tooltip")
 ![alt_text](images/Places/TheDawnEmpire/Crossroads2.png "image_tooltip")
 
